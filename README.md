@@ -2,7 +2,7 @@
 
 A responsive personal portfolio built with HTML & CSS showcasing my skills, education, projects, certifications, and contact details.
 
-https://ajjadasiva9955.github.io/siva_portfolio_fullstackwebdev/
+https://ajjadasiva2005.github.io/siva_softwaredeveloper_portfolio/
 
 🚀 Features
 
